@@ -1,11 +1,5 @@
 # Claude Code Source Snapshot - TypeScript Version
 
-> **⚠️ 注意**：本仓库是从 [instructkr/claude-code](https://github.com/instructkr/claude-code) 备份的 **TypeScript 源码版本**。
-> 
-> 原始仓库在 2026-03-31 之后已变更为 Python 移植版本，本仓库保留了 **原始 TypeScript 源码快照**。
-
----
-
 ## 仓库来源
 
 - **原始仓库**: [instructkr/claude-code](https://github.com/instructkr/claude-code)
